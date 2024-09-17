@@ -1,4 +1,5 @@
 # We are Reasonable
+![logo](Image_1726547675182.jpg)
 ### 禾李，一群 Minecraft 玩家组成的团队    
 
 ##### 啥玩意？
