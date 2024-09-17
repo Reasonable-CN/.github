@@ -1,6 +1,21 @@
-<!DOCTYPE html><html lang="zh-CN"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><link rel="stylesheet" href="/_next/static/css/dbd58e7f49b7f92a.css" crossorigin="" data-precedence="next"/><link rel="stylesheet" href="/_next/static/css/17c456f632db60f3.css" crossorigin="" data-precedence="next"/><link rel="preload" as="script" fetchPriority="low" href="/_next/static/chunks/webpack-6293f5d2832f9104.js" crossorigin=""/><script src="/_next/static/chunks/3a1fbd1c-c10091955725a502.js" async="" crossorigin=""></script><script src="/_next/static/chunks/157-439d0400dbb482fe.js" async="" crossorigin=""></script><script src="/_next/static/chunks/main-app-dd443ef95f6584bf.js" async="" crossorigin=""></script><script src="/_next/static/chunks/app/page-f40aed7a54c985dd.js" async=""></script><script src="/_next/static/chunks/861-1d8928abe2c4eaad.js" async=""></script><script src="/_next/static/chunks/app/layout-fdef1f755fe96381.js" async=""></script><title>Reasonable · 禾李团队</title><meta name="description" content="禾李，一群 Minecraft 玩家组成的团队"/><link rel="author" href="https://alex3236.top"/><meta name="author" content="Alex3236"/><meta name="generator" content="Next.js"/><meta name="keywords" content="禾李,Minecraft,Reasonable"/><link rel="icon" href="/favicon.ico" type="image/x-icon" sizes="16x16"/><script src="/_next/static/chunks/polyfills-c67a75d1b6f99dc8.js" crossorigin="" noModule=""></script></head><body><section class=""><div class="relative isolate px-6 pt-14 lg:px-8"><div class="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80" aria-hidden="true"><div class="relative left-[calc(50%-11rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 rotate-[30deg] bg-gradient-to-tr from-[#66ccff] to-[#ff6c6c] dark:to-[#8a3232] opacity-30 sm:left-[calc(50%-30rem)] sm:w-[72.1875rem]" style="clip-path:polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)"></div></div><div class="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56"><div class="text-center">
+# We are Reasonable
+### 禾李，一群 Minecraft 玩家组成的团队   
+------  
 
-# We&#x27;re <div class="inline bg-clip-text text-transparent bg-gradient-to-br from-blue-300 to-blue-800 dark:from-blue-100 dark:to-blue-400">Reasonable</div>
+##### 啥玩意？
+> Reasonable，中文名称禾李团队，日文名称葉李，成立于 2021 年 8 月 14 日，现以 Minecraft 编程与周边资源制作为核心工作，预备转型的综合性团队。致力于打造 Minecraft 优质资源，并努力建设成为一个绿色、开放、共享、平等的团队。
 
-禾李，一群 Minecraft 玩家组成的团队
-</div></div><div class="absolute inset-x-0 top-[calc(100%-13rem)] -z-10 transform-gpu overflow-hidden blur-3xl sm:top-[calc(100%-30rem)]" aria-hidden="true"><div class="relative left-[calc(50%+3rem)] aspect-[1155/678] w-[36.125rem] -translate-x-1/2 bg-gradient-to-tr from-[#66ccff] to-[#ff6c6c] dark:to-[#8a3232] opacity-30 sm:left-[calc(50%+36rem)] sm:w-[72.1875rem]" style="clip-path:polygon(74.1% 44.1%, 100% 61.6%, 97.5% 26.9%, 85.5% 0.1%, 80.7% 2%, 72.5% 32.5%, 60.2% 62.4%, 52.4% 68.1%, 47.5% 58.3%, 45.2% 34.5%, 27.5% 76.7%, 0.1% 64.9%, 17.9% 100%, 27.6% 76.8%, 76.1% 97.7%, 74.1% 44.1%)"></div></div></div></section><section class="w-full z-10"><div class="text-center md:w-1/2 sm:w-3/4 w-11/12 mx-auto relative flex space-x-1 rounded-xl bg-primary dark:bg-primary-dark p-1">[了解我们](/)[团队成员](/team)[团队项目](/projects)[加入我们](/join)</div></section><section class=""><div class="relative py-8 mx-auto max-w-screen-xl sm:py-16 px-16"><div class="grid pt-8 text-left md:gap-16 md:grid-cols-2"><div><div class="mb-10"><h3 class="flex items-center mb-4 text-lg font-medium text-title dark:text-title-dark"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" data-slot="icon" class="flex-shrink-0 mr-2 w-6 h-6 text-content dark:text-content-dark/80"><path fill-rule="evenodd" d="M2.25 12c0-5.385 4.365-9.75 9.75-9.75s9.75 4.365 9.75 9.75-4.365 9.75-9.75 9.75S2.25 17.385 2.25 12Zm11.378-3.917c-.89-.777-2.366-.777-3.255 0a.75.75 0 0 1-.988-1.129c1.454-1.272 3.776-1.272 5.23 0 1.513 1.324 1.513 3.518 0 4.842a3.75 3.75 0 0 1-.837.552c-.676.328-1.028.774-1.028 1.152v.75a.75.75 0 0 1-1.5 0v-.75c0-1.279 1.06-2.107 1.875-2.502.182-.088.351-.199.503-.331.83-.727.83-1.857 0-2.584ZM12 18a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Z" clip-rule="evenodd"><
+##### 为什么叫禾李？
+> 因为我们是 Reasonable。很合理吧？
+
+##### 目前在做什么？
+> 目前在 Minecraft 和其他领域开发项目。
+
+##### 什么叫预备转型？
+> 我们注定要走向更远的地方。Minecraft 领域很快不再适合团队发展。我们从 2024 年开始转型。
+
+##### 如何盈利？
+> 我们希望通过自主创作与定制服务进行盈利。嗯...这很困难。
+
+##### 团队氛围？
+> 所有成员都是禾李大家庭的一份子，你甚至可以在团队里认干侄子。当然，你还得接受我们的企业文化：摸鱼。
